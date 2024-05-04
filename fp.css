@@ -1,0 +1,29 @@
+.navbar-nav li{
+  padding-left:30px;
+  padding-right:30px;
+}
+nav {
+  color: #FFFFFF;
+  background-color: #343a40;
+}
+.middle{
+  text-align: center;
+}
+.down{
+  margin-top: 100px;
+}
+.cover{
+  width: 450px;
+  height: 600px;
+}
+.navbar-brand > img {
+ height: 30px;
+ width: 30px;
+}
+.pic{
+  height: 700px;
+}
+.mid{
+  height: 550px;
+  width: 600px;
+}
